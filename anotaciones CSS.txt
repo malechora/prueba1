@@ -1,0 +1,9 @@
+Formas de seleccionar un texto en CSS
+
+Universal : cambian todos los elementos
+De tipo: agarro un h2 y cambian todos los h2	
+Clases: class = 
+ID : CAMBIAN los ID seleccionados
+
+
+	

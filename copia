@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords"content=" comida ,perros,gatos">
+	<meta name="description" content= "esta es una pag acerca de comida y perros">
+	<meta name= "robots" content= " index">
+
+	<title>copia</title>
+</head>
+<body>
+
+	<h1></h1>
+
+
+<div>
+	
+
+	<h4><b>REGISTRATE</b></h4>
+<form>
+	
+	<h4>Usuario</h4>
+	<input type="email" required="">
+	<h4>Contraseña</h4>
+	<input type="password" required="" >
+	<input type="submit"required="">
+	
+
+
+</form>
+
+</div>
+
+
+
+<b>si queres </b><a href="index.html"><b>volver</b></a> <b>presiona ahi</b>
+
+
+
+ <h1>que hay que comprar</h1>
+ <ul>
+ <li><a href="https://www.youtube.com"><b>video</b></a></li>
+ <li><b>un mouse</b></li>
+  <li><b>un teclado</b></li>
+</ul>
+
+<h1> mi primera imagen pa </h1>
+
+<p> aca va la imagen <b> imagen </b> </p>
+<img src="https://www.calculadoraconversor.com/wp-content/uploads/2015/07/conversor-lumenes-a-wattios-150x150.jpg" alt = "nombre de la empresa" >
+
+<div>
+	
+<h4> aca se compran perros  </h4>
+
+<p>precio del perro: <b>50$</b></p>
+
+</div>
+
+
+
+
+</body>
+
+</html>

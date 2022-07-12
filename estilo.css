@@ -1,0 +1,102 @@
+.titulo{
+	font-size:  ;
+	color:  red;
+font-family: 'Shadows Into Light', cursive;
+	line-height: 1;
+	font-weight: 1;
+}
+
+
+
+
+
+
+.contact-form1{
+	color:  red;
+}
+
+
+.contact-form2{
+	color: blue;
+}
+
+.contact-form3{
+	color: green;
+}
+
+
+
+
+
+.titulosec{
+	background-color: red;
+	display: inline-block;
+}
+
+.titulosec{
+	padding: 20px;
+	border-radius: 10px;
+	margin: 20px;
+	border: 10px groove grey ;
+	box-shadow: 2px 4px	20px black;
+	text-shadow: 2px 2px 7px #fff, 2px 2px 7px #fff,2px 2px 7px #fff;
+	transform: rotate(15deg);
+}
+
+
+
+.caja1{
+width: 1399px;
+height: 120px;
+background: yellow;
+z-index: 0;
+
+}
+
+.caja2{
+width: 120px;
+height: 120px;
+background: yellow;
+position: relative;
+bottom: 120px;
+z-index: 2;
+}
+
+.logo{
+width: 120px;
+height: 120px;
+}
+
+.buscador{
+	width: 500px;
+	position: relative;
+	bottom: 200px;
+	left: 200px;
+}
+
+.logo2{
+	position: relative;
+	bottom: 250px;
+	left: 700px;
+
+}
+
+
+.button{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	transition: all 1s;
+	border: 3px solid blue;
+}
+.button:hover{
+	color: purple;
+	background-color: orange;
+	height: 300px;
+	width: 300px;
+	border: 3px solid darkred;
+}
+
+
+
+
